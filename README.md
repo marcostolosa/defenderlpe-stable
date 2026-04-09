@@ -21,4 +21,5 @@ Visual Studio 2019+, Release x64.
 ## Credits
  
 https://github.com/Nightmare-Eclipse/BlueHammer
+
 Original research: Tom Gallagher, Igor Tsyganskiy, Jeremy Tinder
